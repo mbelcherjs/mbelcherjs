@@ -2,11 +2,11 @@
 <h3 align="center">DevOps Engineer</h3>
 
 
-<h2> 🚀 About </h2>
+<h2> 🚀 About me </h2>
 
 - 🔥 currently learning **Kubernetes**
 - 📫 Email me @ **mbelcher.it@gmail.com**
-- ⚡ Fun fact **I enjoy collaborating and tinkering with new tools**
+- ⚡ Enjoy collaborating and tinkering with new tools
 
 <h2 align="left"> 🌐 Let's connect</h2>
 
