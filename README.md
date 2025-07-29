@@ -1,5 +1,6 @@
 <h1 align="center">Matt Belcher</h1>
 <h3 align="center">DevOps Engineer</h3>
+<h3 align="center">Automation is like gravity—when it’s done right, you don’t even notice it.</h3>
 
 
 <h2> 🚀 About me </h2>
