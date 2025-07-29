@@ -20,9 +20,10 @@
   <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-black.svg?style=for-the-badge&logo=Ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=black)" />
   <img src="https://img.shields.io/badge/Redhat-red?style=for-the-badge&logo=redhat&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black" />  
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=Bash&logoColor=white" />
