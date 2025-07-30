@@ -14,7 +14,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/mbelcherOps)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matt-belcher-15563254)
 
-<h2 align="left">💻 Tech stack</h2>
+<h2 align="left">💻 Skills and Tech</h2>
 
 
 <p align="left">
