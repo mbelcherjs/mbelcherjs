@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-blue.svg?style=for-the-badge&logo=Windows&logoColor=white" />
 </p>
 
 <h2 align="left"> ⚙️ Latest projects</h2>
