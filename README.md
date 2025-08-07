@@ -5,7 +5,7 @@
 
 <h2> 🚀 About me </h2>
 
-- 🔥 currently learning **Kubernetes**
+- 🔥 currently learning and leveraging **AI tools**
 - 📫 Email me @ **mbelcher.it@gmail.com**
 - ⚡ Enjoy collaborating and tinkering with new tools
 
